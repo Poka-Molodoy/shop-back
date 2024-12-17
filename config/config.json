@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "freedb_kostya",
+    "password": "B!#8q8@Khe#zt4n",
+    "database": "freedb_shop_ndi",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "test": {
+    "username": "freedb_kostya",
+    "password": "B!#8q8@Khe#zt4n",
+    "database": "freedb_shop_ndi",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "production": {
+    "username": "freedb_kostya",
+    "password": "B!#8q8@Khe#zt4n",
+    "database": "freedb_shop_ndi",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
