@@ -26,7 +26,7 @@ export class PaymentService {
           capture: true,
           confirmation: {
             type: 'redirect',
-            return_url: 'http://localhost:3001/order',
+            return_url: 'http://https://shop-front-wzos.onrender.com/order',
           },
           description: makePaymentDto.description,
         },
