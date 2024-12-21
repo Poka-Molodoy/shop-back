@@ -23,7 +23,7 @@ async function bootstrap() {
   });
 
   const config = new DocumentBuilder()
-    .setTitle('Аква термикс')
+    .setTitle('Хром Детеилс')
     .setDescription('api documentation')
     .setVersion('1.0')
     .addTag('api')
